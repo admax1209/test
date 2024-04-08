@@ -1,1 +1,1 @@
-print('Adam bulawa')
+print('Adam bulawa'), jeszcze wiecej tekstu.
