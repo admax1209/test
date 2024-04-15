@@ -1,2 +1,4 @@
-print('Adam bulawa'), jeszcze wiecej tekstu.
-dodam cos
+print('Adam bulawa')
+print('druga galaz')
+print('zajecia_3')
+
