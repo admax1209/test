@@ -1,2 +1,3 @@
 print('Adam bulawa'), jeszcze wiecej tekstu.
 print('druga galaz')
+print('zajecia_3')
