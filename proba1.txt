@@ -1,1 +1,2 @@
 print('Adam bulawa'), jeszcze wiecej tekstu.
+dodam cos
